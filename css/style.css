@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: black;
+}
+
+.container-cover{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: 10px;
+    background-image:url(../img/E-learning-low.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-cover:before{
+    content: '';
+    width: 100%;
+    height: 100%;
+    background:rgba(72, 82, 88, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.container-info-cover{
+    max-width: 800px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+.container-info-cover h1{
+    font-size: 60px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 20px;
+}

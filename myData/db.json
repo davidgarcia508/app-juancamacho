@@ -1,0 +1,131 @@
+{
+  "city": [],
+  "customer": [
+    {
+      "id": 1,
+      "nombre": "",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    },
+    {
+      "id": "DASDAESE",
+      "nombre": "ECEACA",
+      "edad": "15",
+      "telefono": "1236544545",
+      "email": "DQFDGFVDB@GMAIL.COM",
+      "direccion": "CALLLE45852",
+      "fechanac": "2023-05-02",
+      "fechaIngreProgram": "2023-05-05",
+      "idTeam": "1"
+    },
+    {
+      "id": "45",
+      "nombre": "david",
+      "edad": "15",
+      "telefono": "3154887526",
+      "email": "hashgasfdgsa@gmail.com",
+      "direccion": "call55 #85",
+      "fechanac": "2023-05-05",
+      "fechaIngreProgram": "2023-05-18",
+      "idTeam": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "alejandro",
+      "trainerAsociado": "johlver"
+    },
+    {
+      "id": "HtLeBwJ",
+      "nombre": "",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    },
+    {
+      "id": "NCCT6mJ",
+      "nombre": "",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    },
+    {
+      "id": "edfe",
+      "nombre": "dcd",
+      "edad": "dcds",
+      "telefono": "cdcsdc",
+      "email": "sdcdscs@hd",
+      "direccion": "cdsc",
+      "fechanac": "2023-05-04",
+      "fechaIngreProgram": "2023-05-06",
+      "idTeam": "dsc"
+    },
+    {
+      "id": "5",
+      "nombre": "german",
+      "edad": "58",
+      "telefono": "1236548523",
+      "email": "DQFDGFVDB@GMAIL.COM",
+      "direccion": "cdsc",
+      "fechanac": "2023-01-12",
+      "fechaIngreProgram": "2023-05-19",
+      "idTeam": "3"
+    },
+    {
+      "id": "6hMjpnU",
+      "nombre": "",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    },
+    {
+      "id": "k4ICflL",
+      "nombre": "",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    },
+    {
+      "id": "45nSgNN",
+      "nombre": "",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    },
+    {
+      "id": "MEMLusQ",
+      "nombre": "andrea",
+      "edad": "",
+      "telefono": "",
+      "email": "",
+      "direccion": "",
+      "fechanac": "",
+      "fechaIngreProgram": "",
+      "idTeam": ""
+    }
+  ]
+}
